@@ -1,0 +1,12 @@
+{"name": "Yak-130",
+ "type": "fighter trainer",
+ "manufacturer": "Yakolev",
+ "wingspan": "12.3 m",
+ "length": "14.7 m",
+ "height": "4.83 m",
+ "max_takeoff_weight": "6,500 kg",
+ "max_speed": "1,100 km/h",
+ "cruise_speed": "800 km/h",
+ "range": "2,200 km",
+ "ceiling": "12,000 m"
+}
